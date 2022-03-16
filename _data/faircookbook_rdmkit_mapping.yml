@@ -1,0 +1,33 @@
+
+- rdmkit_name: Data publication
+  rdmkit_url: https://rdmkit.elixir-europe.org/data_publication.html
+  faircookbook_name: Depositing in Zenodo generic repository
+  faircookbook_url: https://w3id.org/faircookbook/FCB009
+- rdmkit_name: Data transfer
+  rdmkit_url: https://rdmkit.elixir-europe.org/data_transfer.html
+  faircookbook_name: Transferring data with SFTP
+  faircookbook_url: http://w3id.org/faircookbook/FCB014
+- rdmkit_name: Data transfer
+  rdmkit_url: https://rdmkit.elixir-europe.org/data_transfer.html
+  faircookbook_name: Downloading data with Aspera
+  faircookbook_url: http://w3id.org/faircookbook/FCB015
+- rdmkit_name: Licensing
+  rdmkit_url: https://rdmkit.elixir-europe.org/licensing.html
+  faircookbook_name: Licensing
+  faircookbook_url: https://w3id.org/faircookbook/FCB032
+- rdmkit_name: Machine actionability
+  rdmkit_url: https://rdmkit.elixir-europe.org/machine_actionability.html
+  faircookbook_name: Search engine optimization
+  faircookbook_url: https://w3id.org/faircookbook/FCB010
+- rdmkit_name: Documentation and metadata
+  rdmkit_url: https://rdmkit.elixir-europe.org/metadata_management.html
+  faircookbook_name: Introduction to terminologies and ontologies
+  faircookbook_url: https://w3id.org/faircookbook/FCB019
+- rdmkit_name: Documentation and metadata
+  rdmkit_url: https://rdmkit.elixir-europe.org/metadata_management.html
+  faircookbook_name: Creating data/variable dictionary
+  faircookbook_url: https://w3id.org/faircookbook/FCB025
+- rdmkit_name: Documentation and metadata
+  rdmkit_url: https://rdmkit.elixir-europe.org/metadata_management.html
+  faircookbook_name: Creating a metadata profile
+  faircookbook_url: https://w3id.org/faircookbook/FCB026
